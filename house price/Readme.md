@@ -1,0 +1,5 @@
+Filtering and filling missing data, 
+Feature engineering i.e. selecting the column
+relavant for our machine learning model. 
+Note - deleted the training model and will add
+An updated regression model soon
