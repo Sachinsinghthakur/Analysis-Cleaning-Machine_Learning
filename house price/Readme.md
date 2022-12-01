@@ -1,5 +1,3 @@
-Filtering and filling missing data, 
-Feature engineering i.e. selecting the column
-relavant for our machine learning model. 
-Note - deleted the training model and will add
-An updated regression model soon
+Asking Questions on why employees are leaving? 
+And finding the answer. 
+More Questions to Come and suggestions are highly welcomed
